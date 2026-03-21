@@ -144,7 +144,7 @@ python3 main.py
 
 ### Run continuously (every 10 minutes):
 ```bash
-python3 main.py  # runs in infinite loop
+python3 main.py  
 ```
 
 ### Run dbt transformations:
