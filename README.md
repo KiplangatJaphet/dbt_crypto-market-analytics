@@ -46,7 +46,7 @@ Data is extracted from the **Binance Public REST API**:
 | `/api/v3/klines` | Candlestick (OHLCV) data | `raw_binance_klines` |
 | `/api/v3/ticker/24hr` | 24hr market statistics | `raw_binance_tickers` |
 
-Top 60 USDT trading pairs by volume are extracted including BTCUSDT, ETHUSDT, BNBUSDT, SOLUSDT and XRPUSDT.
+Top 60 USDT trading pairs by volume are extracted including BTCUSDT, ETHUSDT, BNBUSDT, SOLUSDT and XRPUSDT among others.
 
 ---
 
