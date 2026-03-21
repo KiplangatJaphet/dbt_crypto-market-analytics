@@ -124,10 +124,10 @@ crypto_market:
   outputs:
     dev:
       type: postgres
-      host: localhost
+      host: 172.24.67.244
       port: 5433
       user: postgres
-      password: your_password
+      password: my_password
       dbname: analytics
       schema: crypto
 ```
@@ -213,7 +213,4 @@ The **Crypto Market Analytics** dashboard answers 5 key questions:
 
 ---
 
-## Author
 
-**Japhet Kiplagat**
-GitHub: [KiplangatJaphet](https://github.com/KiplangatJaphet)
