@@ -4,3 +4,5 @@ dbt_packages/
 logs/
 .env
 crypto_ingestion/.env
+.env
+crypto_ingestion/.env
