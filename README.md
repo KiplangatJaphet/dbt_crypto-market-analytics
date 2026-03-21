@@ -1,6 +1,6 @@
 # Crypto Market Analytics Pipeline
 
-A production-style ELT data pipeline that collects cryptocurrency market data from the Binance API, stores it in PostgreSQL, transforms it using dbt, and visualizes it in Grafana.
+A production-style ELT data pipeline that collects cryptocurrency market data from the Binance API, stores it in PostgreSQL, transforms it using dbt and visualizes it in Grafana.
 
 ---
 
