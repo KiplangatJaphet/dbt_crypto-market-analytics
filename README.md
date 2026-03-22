@@ -215,17 +215,17 @@ The **Crypto Market Analytics** dashboard answers 5 key questions:
 ## Grafana Dashboard Visuals
 
 ### Daily Average Price
-![Daily Average Price](Grafana_visuals/panel1_daily_avg_price.png)
+![Daily Average Price](grafana_visuals/panel1_daily_avg_price.png)
 
 ### Highest Trading Volume
-![Highest Trading Volume](Grafana_visuals/panel2_highest_volume.png)
+![Highest Trading Volume](grafana_visuals/panel2_highest_volume.png)
 
 ### Hourly Price Volatility
-![Hourly Price Volatility](Grafana_visuals/panel3_hourly_volatility.png)
+![Hourly Price Volatility](grafana_visuals/panel3_hourly_volatility.png)
 
 ### Largest Price Movement
-![Largest Price Movement](Grafana_visuals/panel4_largest_price_movement.png)
+![Largest Price Movement](grafana_visuals/panel4_largest_price_movement.png)
 
 ### 7-Day Rolling Average
-![7-Day Rolling Average](Grafana_visuals/panel5_rolling_average.png)
+![7-Day Rolling Average](grafana_visuals/panel5_rolling_average.png)
 
